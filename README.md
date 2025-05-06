@@ -2,7 +2,7 @@
 
 Welcome to my profile! I am currently studying:
 
-- Games development at University for the Creative Arts
+- Games ~~development~~ art at University for the Creative Arts
 
 While also focusing on:
 
